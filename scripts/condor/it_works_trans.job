@@ -1,0 +1,14 @@
+universe = vanilla
+executable = ./activate_trans.sh
+max_retries = 5
+request_cpus = 1
+request_gpus = 1
+request_memory = 20GB
+error   = condor_logs/err.$(Cluster).$(Process)
+output  = condor_logs/out.$(Cluster).$(Process)
+log     = condor_logs/foo.log
++CSCI_GrpDesktop = true
+
+arguments = $(args)
+Requirements = splitSlotName(LastRemoteHost)[1] =!= Machine
+Queue arguments from it_works_trans.txt

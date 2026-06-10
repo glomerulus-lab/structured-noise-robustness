@@ -1,0 +1,40 @@
+0 1.0 0.5 perspective
+0 1.0 0.5 elastic
+0 1.0 0.5 
+0 1.0 0.5 rotate
+1 1.0 0.5 perspective
+1 1.0 0.5 elastic
+1 1.0 0.5 
+1 1.0 0.5 rotate
+2 1.0 0.5 perspective
+2 1.0 0.5 elastic
+2 1.0 0.5 
+2 1.0 0.5 rotate
+3 1.0 0.5 perspective
+3 1.0 0.5 elastic
+3 1.0 0.5 
+3 1.0 0.5 rotate
+4 1.0 0.5 perspective
+4 1.0 0.5 elastic
+4 1.0 0.5 
+4 1.0 0.5 rotate
+5 1.0 0.5 perspective
+5 1.0 0.5 elastic
+5 1.0 0.5 
+5 1.0 0.5 rotate
+6 1.0 0.5 perspective
+6 1.0 0.5 elastic
+6 1.0 0.5 
+6 1.0 0.5 rotate
+7 1.0 0.5 perspective
+7 1.0 0.5 elastic
+7 1.0 0.5 
+7 1.0 0.5 rotate
+8 1.0 0.5 perspective
+8 1.0 0.5 elastic
+8 1.0 0.5 
+8 1.0 0.5 rotate
+9 1.0 0.5 perspective
+9 1.0 0.5 elastic
+9 1.0 0.5 
+9 1.0 0.5 rotate
