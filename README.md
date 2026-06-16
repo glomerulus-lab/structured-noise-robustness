@@ -29,5 +29,5 @@ Training script used for training models from models.py on MNIST or FashionMNIST
 Defines classes for simple CNN models intended to be trained on MnistData. 
 ### param_utils.py 
 Defines Params class, which is used to store parameters passed in as command line arguments. Also defines default settings & filename structures. 
-## save_adv_images.py 
+### save_adv_images.py 
 Generate adversarial examples and save as an image. Used to obtain images for presentation & paper. 
